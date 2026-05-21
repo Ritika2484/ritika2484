@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="250" height="250" src="https://i.pinimg.com/736x/32/4c/14/324c1483b48d8b998f0e5916b09bed2e.jpg">
+<img align="right" alt="coding" width="250" height="250" margin="20px" padding="20px" src="https://i.pinimg.com/736x/32/4c/14/324c1483b48d8b998f0e5916b09bed2e.jpg">
 
 - 🎓 B.Tech CSE Student at **Lovely Professional University**
 - 💡 Passionate about **Web Development & System Design**
